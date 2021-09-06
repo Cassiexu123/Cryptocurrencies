@@ -19,6 +19,7 @@ Image 2: dropping rows with null data and converting columns containing text to 
 Principal Component Analysis is a statistical technique to speed up machine learning alorithms by reducing the number of dimensions. It allows us to transform large sets of variables into smaller ones that contain most of the informaion. In this project, the DataFrame was reduced to 3 princial component using PCA method.
 
 Image 3: 3 princial components
+
 ![](images/3.PNG)
 
 ### 3.Clustering Cryptocurrencies Using K-means
